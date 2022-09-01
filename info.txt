@@ -1,0 +1,4 @@
+clé api : 84608bc7eaf3ca2e798051e9d8e8b43d
+
+base url : http://api.weatherstack.com/
+
